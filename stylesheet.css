@@ -1,0 +1,67 @@
+/* *{
+    margin: 0;
+    padding: 0;
+    box-sizing::border-box;
+    teext-decoration:none;
+} */
+
+/* Motion Header */
+.header{
+    width: 100%;
+    height: 60vh;
+    padding-left: 5px;
+    background-color: teal;   
+}
+#rmImage{
+    position: relative;
+    top: 1em;
+    left: 0.43em;
+}
+.img-wrapper{
+    width: 100%;
+    height: 100%;
+}
+
+img{
+   max-width: 100%;
+    max-height: 100%;
+    border-radius: 75rem;
+    border: white;
+    border-style: dotted;
+}
+
+.banner{
+    position: absolute;
+    top: 5%;
+    left: 350px;
+    width: stretch;
+    font-family: 'Hina Mincho', serif;
+}
+
+.rmLogo{
+    font-family: 'Cinzel Decorative', cursive;
+    letter-spacing: .08rem;
+    
+}
+
+.candleCo{
+    font-family: 'Ballet', cursive;
+    text-align: center;
+    letter-spacing: 2px;
+}
+
+.shopButton{
+    background-color: silver;
+}
+
+/* Side NavBar */
+
+/* About Us */
+
+/* Cards */
+
+/* Contact */
+
+/* footer images logos */
+
+/* EXTRA FEATURES */
